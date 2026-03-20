@@ -49,4 +49,4 @@
 
 mod error;
 
-pub use error::{NoSource, Result, ResultExt, UniversalError};
+pub use error::{Result, ResultExt, UniversalError};
