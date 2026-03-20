@@ -7,3 +7,6 @@ description = "Track-caller-aware universal Rust error wrapper"
 
 [dependencies]
 
+[workspace]
+members = ["app", "app_error_macro"]
+resolver = "2"

@@ -1,0 +1,8 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+app_error_macro = { path = "../app_error_macro" }
