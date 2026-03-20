@@ -1,0 +1,9 @@
+[package]
+name = "track_caller_error"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Track-caller-aware universal Rust error wrapper"
+
+[dependencies]
+
